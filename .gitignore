@@ -1,0 +1,8 @@
+node_modules/
+.vercel/
+.netlify/
+.DS_Store
+*.log
+# never commit API keys
+.env
+.env.*
