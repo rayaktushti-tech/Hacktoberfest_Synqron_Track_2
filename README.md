@@ -13,7 +13,7 @@
 | **Open-Source Model** | **Google Gemma 4** (`gemma-4-31b-it`, `gemma-4-26b-a4b-it`) via Google AI Studio / Groq |
 | **Model License** | [Gemma Terms of Use / Open Model License](https://ai.google.dev/gemma/terms) |
 | **Project License** | [Apache License 2.0](LICENSE) |
-| **Team Name** | **New-Tons** *(Tushti Rayak, Siddharth Singh, Vivek Dalmia, Naina Jain)* |
+| **Team Name** | **Synqron** *(Tushti Rayak, Siddharth Singh, Vivek Dalmia, Naina Jain)* |
 | **Repository** | [https://github.com/rayaktushti-tech/Hacktoberfest_Synqron_Track_2](https://github.com/rayaktushti-tech/Hacktoberfest_Synqron_Track_2) |
 
 ---
@@ -154,7 +154,7 @@ dimora/
 
 **Before launch:** set `SITE_CONFIG.contactEmail` in `src/09y_landing.js`.
 
-## 👥 Team New-Tons
+## 👥 Team Synqron
 - **Tushti Rayak**
 - **Siddharth Singh**
 - **Vivek Dalmia**
